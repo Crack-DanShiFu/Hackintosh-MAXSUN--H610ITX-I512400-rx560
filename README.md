@@ -2,7 +2,7 @@
 
 适用于 12400 + 铭瑄H610ITX DDR4 +RX560黑苹果引导文件
 
-基于 OpenCore 0.7.7 版本，机型 MacPro 7,1，系统 MacOS 12.4
+基于 OpenCore 0.8.2 版本，机型 MacPro 7,1，系统 MacOS 12.4
 
 # 本机配置
 
